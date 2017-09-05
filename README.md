@@ -4,7 +4,7 @@ Playlists is a website for creating playlists of movies, series, programs and co
 
 video : https://www.youtube.com/watch?v=QByNJW8kTBA&t=26s
 
-features: like, share, rate, login and signup with facebook 
+features: likes, shares, rates, login and signup with facebook , profile , playlist page
 
 packages: socialite
 
